@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": "./",
+    "paths": {
+      "@/common/*": ["common/*"],
+      "@/public/*": ["public/*"],
+    }
+  }
+}
+  
